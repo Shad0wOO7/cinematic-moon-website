@@ -16,12 +16,18 @@
 ## ✨ Aperçu
 
 <p align="center">
-  <img src="./docs/assets/preview.gif" alt="Démonstration animée de LUNE" width="100%" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+  <img src="docs/assets/hero-preview.png" alt="LUNE - Voyage Cinématique" width="100%" />
 </p>
 
 **LUNE** est un site web cinématique à défilement vertical qui plonge le visiteur dans l'univers de la Lune — de ses phases mystérieuses aux grandes missions spatiales, jusqu'aux projets de retour de l'humanité sur sa surface.
 
 L'expérience est pensée comme un court-métrage interactif : chaque section est une scène, chaque animation est une émotion.
+
+### 🎬 Démonstration en direct
+
+<p align="center">
+  <img src="docs/assets/preview.gif" alt="Démonstration animée de LUNE" width="100%" />
+</p>
 
 ### 🔭 Galerie des sections
 
