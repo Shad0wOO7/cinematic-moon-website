@@ -16,13 +16,7 @@
 ## ✨ Aperçu
 
 <p align="center">
-  <video src="https://github.com/Shad0wOO7/cinematic-moon-website/raw/main/docs/assets/Cinematic-Monn.mp4" width="100%" controls autoplay loop muted poster="./docs/assets/hero-preview.png">
-    <a href="./docs/assets/Cinematic-Monn.mp4">▶️ Visionner la vidéo de démonstration cinématique</a>
-  </video>
-</p>
-
-<p align="center">
-  <img src="./docs/assets/hero-preview.png" alt="LUNE - Voyage Cinématique" width="100%" style="border-radius: 8px;" />
+  <img src="./docs/assets/preview.gif" alt="Démonstration animée de LUNE" width="100%" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
 </p>
 
 **LUNE** est un site web cinématique à défilement vertical qui plonge le visiteur dans l'univers de la Lune — de ses phases mystérieuses aux grandes missions spatiales, jusqu'aux projets de retour de l'humanité sur sa surface.
