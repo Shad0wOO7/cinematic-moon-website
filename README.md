@@ -3,6 +3,14 @@
 > Un voyage immersif à travers les phases, l'histoire et l'avenir de notre satellite naturel.  
 > **384 400 km** de la Terre. Une expérience visuelle conçue pour être ressentie.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite_7-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 7" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS 4" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
+</p>
+
 ---
 
 ## ✨ Aperçu
@@ -60,7 +68,7 @@ L'expérience est pensée comme un court-métrage interactif : chaque section es
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/VOTRE_PSEUDO/cinematic-moon-website.git
+git clone https://github.com/Shad0wOO7/cinematic-moon-website.git
 
 # 2. Se placer dans le dossier
 cd cinematic-moon-website
